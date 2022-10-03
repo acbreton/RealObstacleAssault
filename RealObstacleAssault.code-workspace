@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "RealObstacleAssault",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Program Files\\Epic Games\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"terminal.integrated.defaultProfile.windows": "Git Bash"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
